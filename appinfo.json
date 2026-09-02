@@ -1,0 +1,9 @@
+{
+  "id": "com.myurl.app",
+  "version": "1.0.0",
+  "vendor": "MyName",
+  "type": "web",
+  "main": "index.html",
+  "title": "My Web App",
+  "icon": "icon.png"
+}
